@@ -5,7 +5,7 @@ This is a study project for Udacity [Full Stack Web Developer Nanodegree](https:
 
 ## Quick start
 
-* Clone the repo: `git clone https://github.com/fixme`
+* Clone the repo: `git clone https://github.com/friduchin/favourite_movies.git`
 * Run the app: `python movies.py`
 
 ## Requirements
